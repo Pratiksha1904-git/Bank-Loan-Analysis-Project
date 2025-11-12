@@ -127,34 +127,34 @@
 
 <h3>🔹 Power BI Dashboards</h3>
 <p><strong>Summary</strong><br/>
-<img src="D:/Bank Loan Analysis Project/PowerBI_Summary.png" alt="Power BI Summary" style="max-width:800px;"></p>
+<img src="./PowerBI_Summary.png" alt="Power BI Summary" style="max-width:800px;"></p>
 
 <p><strong>Overview</strong><br/>
-<img src="D:/Bank Loan Analysis Project/PowerBI_Overview.png" alt="Power BI Overview" style="max-width:800px;"></p>
+<img src="./PowerBI_Overview.png" alt="Power BI Overview" style="max-width:800px;"></p>
 
 <p><strong>Details</strong><br/>
-<img src="D:/Bank Loan Analysis Project/PowerBI_Details.png" alt="Power BI Details" style="max-width:800px;"></p>
+<img src="./PowerBI_Details.png" alt="Power BI Details" style="max-width:800px;"></p>
 
 <hr/>
 
 <h3>🔹 Excel Dashboards</h3>
 <p><strong>Summary</strong><br/>
-<img src="D:/Bank Loan Analysis Project/Excel_Summary.png" alt="Excel Summary" style="max-width:800px;"></p>
+<img src="./Excel_Summary.png" alt="Excel Summary" style="max-width:800px;"></p>
 
 <p><strong>Overview</strong><br/>
-<img src="D:/Bank Loan Analysis Project/Excel_Overview.png" alt="Excel Overview" style="max-width:800px;"></p>
+<img src=".//Excel_Overview.png" alt="Excel Overview" style="max-width:800px;"></p>
 
 <hr/>
 
 <h3>🔹 Tableau Dashboards</h3>
 <p><strong>Summary</strong><br/>
-<img src="D:/Bank Loan Analysis Project/Tableau_Summary.png" alt="Tableau Summary" style="max-width:800px;"></p>
+<img src="./Tableau_Summary.png" alt="Tableau Summary" style="max-width:800px;"></p>
 
 <p><strong>Overview</strong><br/>
-<img src="D:/Bank Loan Analysis Project/Tableau_Overview.png" alt="Tableau Overview" style="max-width:800px;"></p>
+<img src="./Tableau_Overview.png" alt="Tableau Overview" style="max-width:800px;"></p>
 
 <p><strong>Details</strong><br/>
-<img src="D:/Bank Loan Analysis Project/Tableau_Details.png" alt="Tableau Details" style="max-width:800px;"></p>
+<img src="./Tableau_Details.png" alt="Tableau Details" style="max-width:800px;"></p>
 
 <hr/>
 
@@ -188,7 +188,7 @@ Bank-Loan-Analysis/
 <h2>👩‍💻 Author</h2>
 <p><strong>Pratiksha Chankapure – Data Analyst</strong><br/>
 📧 <a href="mailto:chankapurepratiksha@gmail.com">chankapurepratiksha@gmail.com</a><br/>
-🔗 <a href="www.linkedin.com/in/pratiksha-chankapure">LinkedIn Profile</a>
+🔗 <a href="https://www.linkedin.com/in/pratiksha-chankapure">LinkedIn Profile</a>
 </p>
 
 <hr/>
